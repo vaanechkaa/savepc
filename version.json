@@ -1,0 +1,9 @@
+{
+    "version": "1.2.0",
+    "release_date": "2023-10-15",
+    "changelog": [
+        "Initial release",
+        "Added basic antivirus functionality",
+        "Improved user interface"
+    ]
+}
